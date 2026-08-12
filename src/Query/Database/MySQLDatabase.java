@@ -9,7 +9,7 @@ public class MySQLDatabase implements database {
     }
 
     public Query createQuery() {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'createQuery'");
     }
 
